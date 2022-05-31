@@ -8,7 +8,7 @@ const routes = [
       title: 'Select style',
       fullScreen: true
     },
-    path: '/',
+    path: '/style',
     name: 'style',
     component: Style
   },
